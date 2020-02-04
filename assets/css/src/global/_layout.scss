@@ -1,0 +1,27 @@
+body {
+    font-family: $content-font;
+}
+.container {
+    max-width: $widescreen;
+}
+@media ( max-width: $widescreen) {
+    .container {
+        padding-left: $gutter;
+        padding-right: $gutter;
+    }
+}
+@media ( max-width: $x-large ) {
+
+}
+@media ( max-width: $large ) {
+
+}
+@media ( max-width: $medium ) {
+
+}
+@media ( max-width: $small ) {
+
+}
+@media ( max-width: $x-small ) {
+
+}

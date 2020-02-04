@@ -1,0 +1,20 @@
+//Fonts
+// // Define Fonts
+@import 'https://fonts.googleapis.com/css?family=Bebas+Neue|Heebo:300,400,700,900|Sigmar+One';
+// // Define Varibles for Fonts
+$head-title: 'Sigmar One, cursive';
+$title-font: 'Bebas Neue, cursive';
+$content-font: 'Heebo, cursive';
+
+
+// Breakpoints
+// Try to be consistent with max-widths, only use min-width with calc +0.2
+// Example: @media (min-width: $small + $offset)
+$offset: 0.02px;
+$x-small: 480px;
+$small: 768px;
+$medium: 992px;
+$large: 1200px;
+$x-large: 1440px;
+$widescreen: 1800px;
+$gutter: 15px;

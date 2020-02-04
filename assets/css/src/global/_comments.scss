@@ -1,0 +1,12 @@
+#comments {
+    .form-submit,
+    .comment-form-author,
+    .comment-form-comment {
+        clear: both;
+    }
+    label,
+    input,
+    textarea {
+        display: block;
+    }
+}
